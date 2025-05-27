@@ -1,11 +1,11 @@
-# SS8-150425-24-sodium-saccharin-mesh-5-8
+# SS8-270525-24-sodium-saccharin-mesh-5-8
 
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>LASSIMO Batch SS8-150425-24</title>
+  <title>LASSIMO Batch SS8-270525-24</title>
   <style>
     html, body { margin:0; padding:0; width:100%; height:100%; }
     body {
@@ -42,10 +42,10 @@
       <div><span class="label">Product Description:</span> <span class="value">Sodium Saccharin (Mesh 5-8)</span></div>
       <div><span class="label">INCI:</span> SODIUM SACCHARIN</div>
       <div><span class="label">Application:</span> Personal Care Industry</div>
-      <div><span class="label">Batch No.:</span> <span class="value">SS8-150425-24</span></div>
+      <div><span class="label">Batch No.:</span> <span class="value">SS8-270525-24</span></div>
       <div><span class="label">Packaging:</span> 25 kg Paper Bag</div>
-      <div><span class="label">Prod. Date:</span> <span class="value">15/04/2025</span></div>
-      <div><span class="label">Exp. Date:</span> <span class="value">14/04/2027</span></div>
+      <div><span class="label">Prod. Date:</span> <span class="value">27/05/2025</span></div>
+      <div><span class="label">Exp. Date:</span> <span class="value">26/05/2027</span></div>
     </div>
     <div class="footer">
       <div class="company">LASSIMO</div>
