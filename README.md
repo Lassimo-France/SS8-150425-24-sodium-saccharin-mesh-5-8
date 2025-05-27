@@ -1,19 +1,6 @@
 # SS8-150425-24-sodium-saccharin-mesh-5-8
 
-This folder contains the GitHub Pages verification page for:
-
-- **Product**: Sodium Saccharin (Mesh 5-8)  
-- **Batch No.**: SS8-150425-24  
-
-Visit the live page at:  
-`https://<YourUserName>.github.io/lassimo-verification/SS8-150425-24-sodium-saccharin-mesh-5-8/`
-
-## How to use
-
-1. Scan the QR on the label or click the URL above.  
-2. You’ll see the official “Product Verified ✅” page.
-
-3. <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
